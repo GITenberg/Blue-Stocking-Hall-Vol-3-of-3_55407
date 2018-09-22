@@ -1,5 +1,8 @@
 _repo: Blue-Stocking-Hall-Vol-3-of-3_55407
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55407-h/images/cover.jpg
 creator:
   author:
     agent_name: Scargill, William Pitt
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '40919'
     url: http://www.gutenberg.org/2009/agents/40919
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55407#Blue-Stocking-Hall-Vol-3-of-3
 gutenberg_issued: '2017-08-21'
 gutenberg_type: Text
 identifiers:
